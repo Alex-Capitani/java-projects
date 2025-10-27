@@ -7,7 +7,7 @@
   Repositório destinado aos meus projetos de aprendizado 
   e prática em Java e Spring Boot.
   
-  Atualmente em desenvolvimento:
+  Atualmente estou desenvolvendo:
     - API de Gestão de Tarefas (Spring Boot + JPA + H2)
     - Sistema de Controle Financeiro (Spring Boot + MySQL)
     - Automação de Relatórios Empresariais (Java + SQL)
@@ -17,7 +17,7 @@
 //  Objetivo
 // ------------------------------------------------------
 /*
-  Consolidar conhecimentos em Java Back-End, 
+  Busco cnsolidar conhecimentos em Java Back-End, 
   boas práticas de desenvolvimento e arquitetura Spring Boot,
   preparando-me para contribuir em projetos reais 
   e oportunidades profissionais.
