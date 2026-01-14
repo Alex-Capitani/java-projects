@@ -1,20 +1,20 @@
-*/ O objetivo desta atividade foi apenas as restrições de 
-comunicação (trocas de mensagens) entre objetos, 
-focando na descoberta dos modificadores de acesso 
-presentes no bytecode de uma classe.
 /*
+The goal of this activity is to demonstrate communication restrictions
+(message exchange) between objects, focusing on understanding
+access modifiers in a class.
+*/
 
-Classe Pai (modelo):
+Classe Pai (model):
 
 public class Pai {
-    //ATRIBUTOS 
+    //ATTRIBUTES
     public String nome;
     public int idade; 
     private double salario;
     
-    //MÉTODOS 
+    //METHODS
     public void cadPai(String nm, int anos, int sal) {
-        String nome = nm; //variável local, para setar usaria this.nome = nm;
+        String nome = nm; // local variable; to set the attribute, I would use this.nome = nm;
         idade = anos;
         salario = sal;
     }
